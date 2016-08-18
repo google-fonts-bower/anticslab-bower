@@ -1,0 +1,17 @@
+{
+    "name": "anticslab-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Santiago Orozco"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/anticslab-bower.git"
+    },
+    "description": "Antic Slab font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
